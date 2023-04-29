@@ -1,4 +1,5 @@
-**Namma Yatri EasyBook**
+
+##**Namma Yatri EasyBook**
 Namma Yatri EasyBook is a web-based platform that allows users to book a Namma Yatri auto without the need to install an app. The platform is designed to cater to users who are uncomfortable or unwilling to use apps, providing them with a convenient and easy booking experience.
 
 > **How it works**
